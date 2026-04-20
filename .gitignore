@@ -1,0 +1,17 @@
+# Dataset audio files — too large for git
+emotionFusion/data/
+
+# Generated files — reproducible, no need to track
+emotionFusion/features/
+emotionFusion/models/
+emotionFusion/outputs/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+*.egg-info/
+
+# macOS
+.DS_Store

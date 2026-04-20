@@ -1,0 +1,14 @@
+tensorflow-macos>=2.12
+tensorflow-metal
+librosa>=0.10
+numpy
+pandas
+scikit-learn
+transformers>=4.30
+torch
+soundfile
+matplotlib
+seaborn
+kaggle
+tqdm
+gradio>=4.0
